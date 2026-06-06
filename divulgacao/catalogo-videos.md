@@ -3,7 +3,7 @@
 Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos. **Legendas refinadas a partir da transcrição real de cada vídeo** (voz do Arnaldo). Modo assistido: você posta manualmente e marca o status.
 
 ## Links (girar nos CTAs)
-- 📘 Livro: https://www.falandosobrecorridaderua.com.br/ · 🛒 Amazon: https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/  `[LIVRO]`
+- 📘 Livro: https://www.falandosobrecorridaderua.com.br/ (a landing já tem o botão de compra na Amazon)  `[LIVRO]`
 - 🧭 Testes gratuitos: https://consciencia-autoconhecimento.vercel.app/  `[TESTES]`
 
 ## Como usar
@@ -175,7 +175,7 @@ Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos. 
 
 ### [ ] 2ª Edição Falando sobre corrida de rua
 - **Legenda:** É a segunda edição do meu livro de corrida de rua — agora com um capítulo sobre a **ultramaratona**: por que comecei, como evoluí e como cheguei lá. Foi dele que nasceu o "Mude de Patamar".
-- **1º comentário:** 📘 Garanta o seu na Amazon — link na bio. `[LIVRO]`
+- **1º comentário:** 📘 Conheça o livro — link na bio. `[LIVRO]`
 - `#livro #corridaderua #metodo3c`
 
 ---

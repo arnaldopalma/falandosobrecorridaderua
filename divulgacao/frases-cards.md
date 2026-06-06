@@ -4,7 +4,7 @@ Banco de frases do livro *Falando Sobre Corrida de Rua* para virar **cards de im
 
 ## Links (girar nos CTAs)
 - 🧭 Testes gratuitos: https://consciencia-autoconhecimento.vercel.app/  `[TESTES]`
-- 📘 Livro: https://www.falandosobrecorridaderua.com.br/ · 🛒 Amazon: https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/  `[LIVRO]`
+- 📘 Livro: https://www.falandosobrecorridaderua.com.br/ (a landing já tem o botão de compra na Amazon)  `[LIVRO]`
 
 ## Como usar
 1. Escolha um card. 2. Pegue no Google Photos uma foto do **tipo sugerido**. 3. Monte (Canva/InShot/editor do Insta): frase grande, alto contraste, seu @ e logo pequenos no rodapé. 4. **Stories:** adicione a figurinha de **link** para o destino indicado. **Feed:** coloque o link na bio e o CTA na legenda.
@@ -117,7 +117,7 @@ Banco de frases do livro *Falando Sobre Corrida de Rua* para virar **cards de im
 ### 17. `[LIVRO]`
 > "Este livro não é só sobre corrida. É sobre vencer você mesmo, um passo de cada vez."
 - **Foto sugerida:** capa do livro + você, ou foto de chegada.
-- **CTA:** 📘 Garanta o seu na Amazon
+- **CTA:** 📘 Conheça o livro
 - `#livro #corridaderua #superacao`
 
 ### 18. `[LIVRO]`

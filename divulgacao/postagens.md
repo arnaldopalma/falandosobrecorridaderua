@@ -4,8 +4,8 @@ Conteúdo de divulgação baseado no livro real (3ª edição, 2025). Foco: **In
 
 ## Links oficiais
 - 📘 Site do livro: https://www.falandosobrecorridaderua.com.br/
-- 🛒 Amazon: https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/
 - 🧭 Testes de autoconhecimento (gratuitos): https://consciencia-autoconhecimento.vercel.app/
+- 🛒 Amazon (NÃO usar direto nos CTAs — mandar sempre para a landing acima, que já tem o botão de compra): https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/
 
 ## Estratégia de funil (TESTES como porta principal)
 - **CTA principal = os testes gratuitos** (autoconhecimento). Motivos: é grátis (mais cliques), atinge público bem maior que corrida, e **captura nome + e-mail + telefone** → lead que é seu (a Amazon não te dá o contato do comprador).
