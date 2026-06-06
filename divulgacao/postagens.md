@@ -7,6 +7,13 @@ Conteúdo de divulgação baseado no livro real (3ª edição, 2025). Foco: **In
 - 🛒 Amazon: https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/
 - 🧭 Testes de autoconhecimento (gratuitos): https://consciencia-autoconhecimento.vercel.app/
 
+## Estratégia de funil (TESTES como porta principal)
+- **CTA principal = os testes gratuitos** (autoconhecimento). Motivos: é grátis (mais cliques), atinge público bem maior que corrida, e **captura nome + e-mail + telefone** → lead que é seu (a Amazon não te dá o contato do comprador).
+- **Funil:** Reels/cards (atraem) → **Testes** (grátis, capturam o lead) → nutrição (e-mail/WhatsApp) → **Livro + mentoria** (conversão/monetização).
+- **Link na bio:** apontar para os **testes** (`consciencia-autoconhecimento.vercel.app`). O próprio site dos testes já cross-linka para o livro — então o funil está embutido.
+- **Proporção de CTA:** ~⅔ testes / ⅓ livro (já aplicado nos cards e nas legendas).
+- **Nutrição:** o teste já envia o resultado por e-mail (Resend). Próximo passo possível: sequência de follow-up oferecendo o livro/mentoria.
+
 ## Tom de voz
 Autêntico, direto e inspirador. Executivo + ultramaratonista que saiu da periferia de Osasco. Sempre amarrar à mensagem central: **pequenas mudanças geram grandes resultados** pela fórmula **Consciência + Congruência + Consistência (Método 3C)**. O livro tem 2 partes: a jornada de transformação (corpo) e o convite ao autoconhecimento (mente) — esta última conecta direto com os testes.
 
