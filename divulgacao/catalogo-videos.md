@@ -1,15 +1,17 @@
 # Catálogo de Vídeos → Posts (Reels / TikTok)
 
-Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos (voz do livro / Método 3C). Modo assistido: **você posta manualmente** e marca o status.
+Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos. **Legendas refinadas a partir da transcrição real de cada vídeo** (voz do Arnaldo). Modo assistido: você posta manualmente e marca o status.
 
-## Links (para girar nos CTAs)
-- 📘 Livro: https://www.falandosobrecorridaderua.com.br/ · 🛒 Amazon: https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/
-- 🧭 Testes gratuitos: https://consciencia-autoconhecimento.vercel.app/
+## Links (girar nos CTAs)
+- 📘 Livro: https://www.falandosobrecorridaderua.com.br/ · 🛒 Amazon: https://www.amazon.com.br/Falando-sobre-corrida-rua-Ultramaratona-ebook/dp/B0FK1P4B9V/  `[LIVRO]`
+- 🧭 Testes gratuitos: https://consciencia-autoconhecimento.vercel.app/  `[TESTES]`
 
 ## Como usar
 1. Pegue o próximo vídeo na ordem sugerida (no fim do arquivo).
 2. Copie a **legenda** + poste o **1º comentário** logo após publicar (ajuda no alcance).
 3. Marque `[x]` quando postar.
+
+> ⚠️ 3 vídeos são **só música/imagens** (Bertioga-Maresias, Gratidão, Pierre Brown) — a legenda deles vem do livro/contexto, não de fala.
 
 ## Banco de hashtags (use 5–8, variando)
 `#corridaderua #ultramaratona #metodo3c #autoconhecimento #altaperformance #disciplina #emagrecimento #mentalidade #superacao #correr #habitos #foco #propósito #resiliencia`
@@ -21,153 +23,159 @@ Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos (
 ## 🧠 Método 3C & Mentalidade
 
 ### [ ] 3Cs (FILTRO) — o coração do método
-- **Legenda:** Existe uma fórmula simples por trás de toda transformação que dura: **Consciência + Congruência + Consistência**. Usei na balança, no relógio da corrida e na carreira. Pequenas mudanças, grandes resultados.
-- **1º comentário:** Montei 4 testes gratuitos pra você começar pelo 1º C (Consciência) 👉 link na bio.
-- `#metodo3c #altaperformance #autoconhecimento #disciplina`
+- **Legenda:** Três palavras podem mudar a sua vida: **Consciência** (o conhecimento que leva a decisões), **Congruência** (seus valores alinhados às suas atividades e metas) e **Consistência** (fazer repetidamente até virar automático). Pega essa informação, se transforma, seja uma versão melhor de você mesmo.
+- **1º comentário:** Comece pela Consciência — 4 testes gratuitos 👉 link na bio. `[TESTES]`
+- `#metodo3c #altaperformance #autoconhecimento`
 
 ### [ ] Metodo (check-list simples e pratico)
-- **Legenda:** Não precisa ser complicado. Precisa ser consistente. Um check-list simples me tirou de 90 kg e me levou a uma ultramaratona de 68 km.
-- **1º comentário:** O passo a passo completo está no livro 📘 link na bio.
-- `#metodo3c #habitos #corridaderua #foco`
+- **Legenda:** Pra ser produtivo, você precisa de um método. Eu tenho um check-list semanal (uso o Evernote) com o que não quero deixar de fazer — e logo cedo, 5h/5h30, já "mato" metade. Toda semana eu renovo e recomeço.
+- **1º comentário:** O método completo está no livro 📘 link na bio. `[LIVRO]`
+- `#metodo3c #habitos #foco`
 
 ### [ ] Autossabotagem (Itapecirica) — Congruência
-- **Legenda:** Se você se sabota, a origem quase sempre está aqui: falta de **congruência**. Quando seu objetivo briga com seus valores, você perde — mesmo querendo ganhar.
-- **1º comentário:** Como alinhar objetivo e valores? Conto no livro 📘 link na bio.
+- **Legenda:** Você evolui, está tudo indo bem… e do nada se sabota? Isso é **incongruência**: algo profundo nos seus valores briga com aquele sucesso. Enquanto você não quebrar essa crença, vai voltar atrás toda vez que tentar evoluir nessa área.
+- **1º comentário:** No livro tem um capítulo só sobre isso, com 11 exercícios pra aplicar 📘 link na bio. `[LIVRO]`
 - `#mentalidade #metodo3c #autoconhecimento`
 
-### [ ] Proposito (Itapecirica) / Proposito (postados)
-- **Legenda:** Sem propósito, qualquer desculpa vence. Com propósito, qualquer obstáculo perde. Foi o propósito que me fez levantar às 4h pra treinar.
-- **1º comentário:** "Quem quer um objetivo encontra um caminho; quem não quer encontra uma desculpa." 📘 link na bio.
-- `#propósito #disciplina #superacao`
+### [ ] Proposito (Itapecirica) + Proposito (postados)
+- **Legenda:** Por que tanto executivo bem-sucedido larga tudo? Porque evoluiu focado só em dinheiro, não no propósito. Mas você não precisa mudar de carreira pra viver o seu — meu tio, motorista de ônibus, vivia o propósito dele levando as pessoas com cuidado e alegria. Descubra o seu e viva-o onde estiver.
+- **1º comentário:** O exercício do Ikigai (pra achar seu propósito) está no livro 📘 link na bio. `[LIVRO]`
+- `#propósito #autoconhecimento #mentalidade`
+- *Nota: 2 vídeos sobre propósito — alternar.*
 
 ### [ ] Aumentar Resiliência
-- **Legenda:** Os dias difíceis não são o problema — são eles que forjam a evolução. Cada km na chuva e no cansaço me deixou mais resistente.
-- **1º comentário:** "A dor e o cansaço são temporários; a realização é o seu legado." 📘 link na bio.
+- **Legenda:** Quer ser mais resiliente? Teste-se em esforços maiores. Quando você força o pace "metendo uns blocos" e o corpo aguenta, não é só o corpo que ficou mais forte — a mente também. Isso é resiliência.
+- **1º comentário:** "A dor e o cansaço são temporários; a realização é o seu legado." 📘 link na bio. `[LIVRO]`
 - `#resiliencia #mentalidade #correr`
 
 ### [ ] O poder das pequenas coisas (novos habitos) (postados)
-- **Legenda:** Hábito não se cria com força de vontade, se cria com **gatilho + rotina + recompensa**. Comece pequeno: o passo factível de hoje vira o hábito mestre de amanhã.
-- **1º comentário:** Mais sobre o "hábito mestre" no livro 📘 link na bio.
+- **Legenda:** Existe um poder enorme nas pequenas coisas feitas de forma consistente. Leia 30 min por dia e vira especialista. Corra 1 minuto a mais por vez e vira corredor. E não esquece: descanso também é treino.
+- **1º comentário:** O "hábito mestre" começa pequeno 📘 link na bio. `[LIVRO]`
 - `#habitos #disciplina #metodo3c`
 
 ### [ ] O mais importante 1º
-- **Legenda:** Antes de correr mais rápido, defina a meta certa. Não "perder peso" — mas **ser saudável**. Não o que você abandona, e sim quem você se torna.
-- **1º comentário:** A virada de chave da meta está no livro 📘 link na bio.
-- `#foco #metodo3c #emagrecimento`
+- **Legenda:** Hoje saí pra correr mais tarde porque estava tendo tempo de qualidade com minha esposa. Sem problema — corro outro horário. Toda vez que você prioriza o que NÃO é importante, você bagunça a própria vida. Priorize o que realmente importa.
+- **1º comentário:** Equilíbrio é um dos pilares do Método 3C 📘 link na bio. `[LIVRO]`
+- `#foco #equilibrio #metodo3c`
 
 ### [ ] conhecimentoemacao — conhecimento em ação
-- **Legenda:** Conhecimento sem ação não muda nada. O que transforma é Consistência: fazer o que precisa, na hora certa, na medida certa.
-- **1º comentário:** "A disciplina vence o talento, quando o talento não tem disciplina." 📘 link na bio.
+- **Legenda:** Temos muita teoria. Mas consciência é o conhecimento **em ação**: é parar de fumar, beber menos, comer melhor, começar a treinar. É quando você percebe que precisa de uma atitude — e age.
+- **1º comentário:** "A disciplina vence o talento, quando o talento não tem disciplina." 📘 link na bio. `[LIVRO]`
 - `#disciplina #altaperformance #metodo3c`
 
 ### [ ] Maquina de sobrevivencia (postados)
-- **Legenda:** Por que quase todo mundo recupera o peso perdido? Porque o corpo tem mecanismos de sobrevivência. Emagrecer de verdade é trabalhar **com** essa máquina, não contra ela.
-- **1º comentário:** Como fiz pra perder ~20 kg sem recuperar? 📘 link na bio.
-- `#emagrecimento #corridaderua #mentalidade`
+- **Legenda:** Somos uma máquina de sobrevivência, e nossos hábitos são os "algoritmos" que criamos pra facilitar a vida. A pergunta é: eles jogam a favor ou contra você? O caminho pra mudar isso é Consciência, Congruência e Consistência.
+- **1º comentário:** Como reprogramar hábitos que atrapalham? 📘 link na bio. `[LIVRO]`
+- `#habitos #emagrecimento #mentalidade`
 
 ### [ ] Ponto de Ebulição (evolução) (postados)
-- **Legenda:** A água só vira vapor a 100°C. Sua evolução é igual: parece que nada acontece… até o ponto de ebulição. Não pare 1 grau antes.
-- **1º comentário:** Resultados não são imediatos — são inevitáveis pra quem é consistente. 📘 link na bio.
+- **Legenda:** A água só evapora a 100°C — sua evolução é igual. Aos 38, eu precisava falar inglês no trabalho: estudei ~50h por mês, 200h em 4 meses, até tudo "fazer sentido". Esse é o ponto de ebulição. Foca e fica obstinado por um período, até transformar.
+- **1º comentário:** Resultados não são imediatos — são inevitáveis pra quem persiste. 📘 link na bio. `[LIVRO]`
 - `#consistencia #superacao #disciplina`
 
 ### [ ] Resultados não são imediatos (FILTRO)
-- **Legenda:** Você não vê o progresso todo dia — mas ele está acontecendo. Plante a consistência hoje; a colheita vem depois do ponto de ebulição.
-- **1º comentário:** "Tudo é muito difícil até se tornar fácil, e o que você conquista é seu." 📘 link na bio.
-- `#consistencia #mentalidade #correr`
+- **Legenda:** O resultado positivo não é imediato — mas o negativo também não. Por isso tanta gente não cria o hábito: não vê o ganho (nem o estrago) hoje. Lá na frente, a conta chega. Plante consistência agora.
+- **1º comentário:** "Tudo é muito difícil até se tornar fácil, e o que você conquista é seu." 📘 link na bio. `[LIVRO]`
+- `#consistencia #mentalidade #saude`
+
+### [ ] Tudo é dificil (Itapecirica)
+- **Legenda:** Tudo é difícil até se tornar fácil. Correr 3 km já me pareceu impossível — cheguei a 68,4 km em 7 horas. Se algo parece difícil demais, é só que você ainda não tem a competência pra torná-lo fácil. O que muda isso? Consistência.
+- **1º comentário:** Vale pra corrida, idioma, carreira, relacionamentos — tudo. 📘 link na bio. `[LIVRO]`
+- `#superacao #habitos #metodo3c`
 
 ## 🏃 Técnica, Pace & Básico
 
 ### [ ] Basico 1 - assessoria
-- **Legenda:** Começar a correr é fácil — começar **certo** evita lesão. Dica nº1: tenha uma assessoria ou um protocolo. Quem corre é você, mas ninguém evolui sozinho.
-- **1º comentário:** Mais dicas de iniciante no livro 📘 link na bio.
+- **Legenda:** Sou o Arnaldo, 50 anos, executivo do mercado financeiro — e há ~5 anos a corrida me deu uma vida mais equilibrada, no corpo e na mente. Dica nº1 pra quem vai começar: procure uma **assessoria de corrida**. Hoje tem ótimas opções virtuais (mais baratas) que montam o treino pra sua condição atual.
+- **1º comentário:** Sem grana? Tem muita coisa boa no Google também. Mais dicas no livro 📘 link na bio. `[LIVRO]`
 - `#correr #corridaderua #iniciante`
 
 ### [ ] Basico 2 - pace
-- **Legenda:** Pace é o seu tempo por km — e o termômetro da sua evolução. Eu saí de 7'04 para 3'55. Não foi talento: foi técnica + redução de peso.
-- **1º comentário:** Como baixei 40% do meu pace? 📘 link na bio.
+- **Legenda:** No mundo dos negócios a gente diz: você só gerencia o que mede. No esporte é igual — e a principal medida é o **pace** (tempo por km). Saí de 7'30 pra 3'55 com técnica. E lembre: prova é por distância, não por tempo.
+- **1º comentário:** Como baixei 40% do meu pace? 📘 link na bio. `[LIVRO]`
 - `#pace #corridaderua #altaperformance`
 
 ### [ ] Serie Mude de Patamar - Evolução Pace
-- **Legenda:** 5 km em 32:50 → 19:52. Sub-20 depois dos 46 anos. Mudar de patamar é possível — exige método, não milagre.
-- **1º comentário:** A série "Mude de Patamar" virou livro 📘 link na bio.
+- **Legenda:** Mudei de patamar na corrida: em ~6 meses saí de 7'30 pra ~3'58 de pace. Como eu já fazia musculação, os músculos aguentaram. A dica de quem está parado: comece leve — saia da caminhada pra correr 5 km. Depois o patamar muda.
+- **1º comentário:** A série "Mude de Patamar" virou livro 📘 link na bio. `[LIVRO]`
 - `#pace #superacao #metodo3c`
 
 ### [ ] Serie Mude de Patamar - Profissional
-- **Legenda:** O que aprendi correndo eu levei para a carreira: meta clara, congruência e consistência. O asfalto é a melhor academia de liderança.
-- **1º comentário:** Método 3C na corrida e nos negócios 📘 link na bio.
+- **Legenda:** A corrida me ensinou a mudar de patamar — e levei isso pra carreira. Sonhava em ser diretor, errei o timing várias vezes, perdi tempo e dinheiro. Em 2022 virei CEO de uma startup de BI e depois abri minha própria empresa. Se prepara: mente, coração e conhecimento.
+- **1º comentário:** Método 3C na corrida e nos negócios 📘 link na bio. `[LIVRO]`
 - `#lideranca #altaperformance #metodo3c`
 
 ### [ ] Serie Mude de Patamar - Redução Peso (postados)
-- **Legenda:** 90 → 73 kg. 16 kg em 6 meses. A corrida criou o déficit calórico; o "mindset" sustentou o resultado.
-- **1º comentário:** Como mantive sem recuperar? 📘 link na bio.
+- **Legenda:** Saí de 90 kg pra 72 kg. Fui "gordinho forte" por anos — me incomodava, mas eu já tinha me acostumado. Até decidir uma mudança mais forte: 16 kg em 6 meses, com a corrida e a virada de mindset.
+- **1º comentário:** Como mantive sem recuperar o peso? 📘 link na bio. `[LIVRO]`
 - `#emagrecimento #corridaderua #disciplina`
 
 ### [ ] Serie Mude de Patamar - Distancia na corrida (postados)
-- **Legenda:** De 3,5 km engatinhando a 68,4 km de ultramaratona. A distância cresce quando a mente acredita antes do corpo.
-- **1º comentário:** "Os nossos limites somos nós mesmos quem colocamos." 📘 link na bio.
+- **Legenda:** Mudei de patamar também na distância. Comecei com 3,5 km (nos 21 km quase morri). Fui evoluindo: 50 km em 8 meses, 70 km em 2 anos. De 3,5 a 70 km — com técnica, visualização, mindset e resiliência.
+- **1º comentário:** "Os nossos limites somos nós mesmos quem colocamos." 📘 link na bio. `[LIVRO]`
 - `#ultramaratona #superacao #correr`
 
 ### [ ] Serie Mude de Patamar - Detalhes Ebook (postados)
-- **Legenda:** Tudo que aprendi em +9.000 km cabe num lugar só: o ebook *Falando Sobre Corrida de Rua*.
-- **1º comentário:** 📘 Garanta o seu — link na bio.
+- **Legenda:** O *Mude de Patamar* combina tudo que aprendi em 5 anos de corrida e 20 de vida executiva: como sair da zona de conforto, resiliência, performance — e 11 exercícios pra você mudar de patamar em qualquer área que escolher.
+- **1º comentário:** 📘 Garanta o seu — link na bio. `[LIVRO]`
 - `#corridaderua #livro #metodo3c`
 
 ## 🏅 Provas & Conquistas
 
-### [ ] Bertioga-Maresias — a ultramaratona
+### [ ] Bertioga-Maresias — a ultramaratona *(só música/imagens)*
 - **Legenda:** Largada às 4h, praia no escuro total, 68,4 km pela frente. No km 54 veio a câimbra e quase parei — salame e Gatorade me salvaram. Cheguei "chapado de amor".
-- **1º comentário:** A história completa da ultra está no livro 📘 link na bio.
+- **1º comentário:** A história completa da ultra está no livro 📘 link na bio. `[LIVRO]`
 - `#ultramaratona #superacao #corridaderua`
 
 ### [ ] Maratona solo
-- **Legenda:** 42 km sozinho, sem público, sem medalha. Só eu, o relógio e a minha palavra. Às vezes a maior prova é a que ninguém vê.
-- **1º comentário:** Correr é vencer você mesmo, um passo de cada vez 📘 link na bio.
+- **Legenda:** Meu longão de sexta virou uma maratona. 42 km sozinho, comendo gel e castanha no caminho, indo até o limite. 4h09, as duas coxas no talo no fim. "Tudo é difícil, mas pra ficar fácil."
+- **1º comentário:** Às vezes a maior prova é a que ninguém vê. 📘 link na bio. `[LIVRO]`
 - `#maratona #disciplina #correr`
 
-### [ ] 1º Duatlhon / 1ª duatlhon (20 bike+21 correndo) / (20 bike+pq)
-- **Legenda:** Bike + corrida no mesmo dia: o duatlo me ensinou que versatilidade também é resiliência. Sair da zona de conforto em duas modalidades de uma vez.
-- **1º comentário:** O corpo aguenta mais do que a mente acredita 💪 📘 link na bio.
+### [ ] 1º Duatlhon (+ cortes "20 bike+21 correndo" e "20 bike+pq")
+- **Legenda:** Bike + corrida no mesmo dia. Os 20 km de bike aqueceram a perna, e a corrida saiu melhor do que eu imaginava. Próximo objetivo: fechar um 70.3. Versatilidade também é resiliência.
+- **1º comentário:** O corpo aguenta mais do que a mente acredita 💪 📘 link na bio. `[LIVRO]`
 - `#duatlon #superacao #resiliencia`
-- *Nota: há 3 cortes do mesmo evento — escolha o melhor para postar.*
+- *Nota: 3 cortes do mesmo evento — escolha o melhor para postar.*
 
 ## 🌅 Vida, Relações & Propósito
 
 ### [ ] Zona de conforto (FILTRO)
-- **Legenda:** *"Toda evolução está fora da zona de conforto."* O lugar confortável é gostoso — e é exatamente onde nada cresce.
-- **1º comentário:** Como sair dela na prática? 📘 link na bio.
+- **Legenda:** Treino de limiar: 5 km "brigando com a mente" a cada passo. Pensa na sua zona de conforto como um círculo — cada vez que você empurra o limite um pouquinho, ela alarga. O esporte faz isso em pequenas doses, e você vai se transformando.
+- **1º comentário:** "Toda evolução está fora da zona de conforto." 📘 link na bio. `[LIVRO]`
 - `#superacao #mentalidade #metodo3c`
 
-### [ ] Com quem você anda / mudar influencias (FILTRO)
-- **Legenda:** Você é a média de quem te cerca. Quer mudar de patamar? Mude também as influências — comece a andar com quem já está onde você quer chegar.
-- **1º comentário:** Olha pro seu círculo hoje: ele te puxa pra cima ou te segura? 📘 link na bio.
+### [ ] Com quem você anda + mudar influencias (FILTRO)
+- **Legenda:** "Me diz com quem você anda…" — eu vou além: me diz que séries você assiste, que livros lê, onde frequenta. Tudo que você consome é o que você é. Não está gostando do resultado? Mude o que você consome.
+- **1º comentário:** A maioria sabe o que precisa mudar, mas falta consistência — porque está cercada de quem não faz. 📘 link na bio. `[LIVRO]`
 - `#mentalidade #habitos #altaperformance`
-- *Nota: 2 vídeos do mesmo tema ("Com quem você anda" e "mudar influencias") — alternar.*
+- *Nota: 2 vídeos do mesmo tema — alternar.*
 
-### [ ] Liberdade da corrida
-- **Legenda:** Tênis no pé e a rua é sua. Sem senha, sem reunião, sem cobrança. A corrida é o tipo de liberdade que cabe em 30 minutos do seu dia.
-- **1º comentário:** Comece hoje — não é fácil, é simples. 📘 link na bio.
+### [ ] Liberdade da corrida *(curto/b-roll)*
+- **Legenda:** Correr é uma sensação libertadora: só você, suas pernas e seu corpo te levando de um lugar pro outro. A liberdade que cabe em 30 minutos do seu dia.
+- **1º comentário:** Não é fácil, é simples. Comece hoje. 📘 link na bio. `[LIVRO]`
 - `#correr #liberdade #corridaderua`
 
 ### [ ] Tempo de Qualidade
-- **Legenda:** Treinar não me tirou tempo da família — me deu mais energia e presença pra ela. Corpo ativo, mente presente.
-- **1º comentário:** Equilíbrio é um dos pilares do Método 3C 📘 link na bio.
-- `#equilibrio #saude #mentalidade`
+- **Legenda:** Hoje a Pietra correu a primeira corrida de rua de verdade dela — presente de aniversário: correr comigo, 5 km, lá em Osasco. "Correr na rua é uma liberdade muito grande", ela disse. Corpo ativo, presença em dobro.
+- **1º comentário:** Esporte não tira tempo da família — devolve energia pra ela. 📘 link na bio. `[LIVRO]`
+- `#equilibrio #saude #familia`
 
-### [ ] Gratidao (postados)
-- **Legenda:** Gratidão por cada km, por cada subida, por um corpo que responde. Quem corre aprende a agradecer o caminho, não só a chegada.
-- **1º comentário:** 📘 link na bio.
+### [ ] Gratidao (postados) *(só música)*
+- **Legenda:** Gratidão por cada km, cada subida, por um corpo que responde. Quem corre aprende a agradecer o caminho, não só a chegada.
+- **1º comentário:** 📘 link na bio. `[LIVRO]`
 - `#gratidao #correr #saude`
 
-### [ ] Pierre Brown — o cão corredor
-- **Legenda:** Esse é o Pierre, meu parceiro de treino de 4 patas 🐶. Tem até capítulo dele no livro: "Pet Corredor". Correr com seu cão é alegria (e disciplina) em dose dupla.
-- **1º comentário:** A história do Pierre está no livro 📘 link na bio.
+### [ ] Pierre Brown — o cão corredor *(só música)*
+- **Legenda:** Esse é o Pierre, meu parceiro de treino de 4 patas 🐶. Tem até capítulo dele no livro: "Pet Corredor". Correr com o seu cão é alegria (e disciplina) em dose dupla.
+- **1º comentário:** A história do Pierre está no livro 📘 link na bio. `[LIVRO]`
 - `#petcorredor #cachorro #corridaderua`
 
 ## 📘 Livro
 
 ### [ ] 2ª Edição Falando sobre corrida de rua
-- **Legenda:** Da obesidade grau 1 a três ultramaratonas. Essa é a história — e o método — que coloquei no livro *Falando Sobre Corrida de Rua*. Agora na edição revisada e ampliada.
-- **1º comentário:** 📘 Garanta o seu na Amazon — link na bio.
+- **Legenda:** É a segunda edição do meu livro de corrida de rua — agora com um capítulo sobre a **ultramaratona**: por que comecei, como evoluí e como cheguei lá. Foi dele que nasceu o "Mude de Patamar".
+- **1º comentário:** 📘 Garanta o seu na Amazon — link na bio. `[LIVRO]`
 - `#livro #corridaderua #metodo3c`
 
 ---
@@ -187,5 +195,5 @@ Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos (
 | 7 | Pierre Brown | Distancia na corrida | Maquina de sobrevivencia |
 | 8 | Tempo de Qualidade | Resultados não são imediatos | Detalhes Ebook (livro) |
 | 9 | Com quem você anda | Ponto de Ebulição | Gratidao → testes |
-| 10 | 1º Duatlhon | mudar influencias | Proposito (corte 2) |
+| 10 | 1º Duatlhon | Tudo é dificil | Proposito (corte 2) |
 | 11 | Bertioga (corte 2) | — | 2ª Edição (reforço livro) |
