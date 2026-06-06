@@ -126,8 +126,9 @@ Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos (
 
 ### [ ] 1º Duatlhon / 1ª duatlhon (20 bike+21 correndo) / (20 bike+pq)
 - **Legenda:** Bike + corrida no mesmo dia: o duatlo me ensinou que versatilidade também é resiliência. Sair da zona de conforto em duas modalidades de uma vez.
-- **1º comentário:** *(3 cortes do mesmo evento — escolha o melhor)* 📘 link na bio.
+- **1º comentário:** O corpo aguenta mais do que a mente acredita 💪 📘 link na bio.
 - `#duatlon #superacao #resiliencia`
+- *Nota: há 3 cortes do mesmo evento — escolha o melhor para postar.*
 
 ## 🌅 Vida, Relações & Propósito
 
@@ -138,8 +139,9 @@ Catálogo dos vídeos da pasta do Drive, com legenda e 1º comentário prontos (
 
 ### [ ] Com quem você anda / mudar influencias (FILTRO)
 - **Legenda:** Você é a média de quem te cerca. Quer mudar de patamar? Mude também as influências — comece a andar com quem já está onde você quer chegar.
-- **1º comentário:** *(2 vídeos sobre o mesmo tema — alternar)* 📘 link na bio.
+- **1º comentário:** Olha pro seu círculo hoje: ele te puxa pra cima ou te segura? 📘 link na bio.
 - `#mentalidade #habitos #altaperformance`
+- *Nota: 2 vídeos do mesmo tema ("Com quem você anda" e "mudar influencias") — alternar.*
 
 ### [ ] Liberdade da corrida
 - **Legenda:** Tênis no pé e a rua é sua. Sem senha, sem reunião, sem cobrança. A corrida é o tipo de liberdade que cabe em 30 minutos do seu dia.
